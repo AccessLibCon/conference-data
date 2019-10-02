@@ -1,0 +1,818 @@
+{
+  "St. Catharines, Niagara Region, Golden Horseshoe, Ontario, Canada": {
+    "address": "St. Catharines, Niagara Region, Golden Horseshoe, Ontario, Canada",
+    "city": "St. Catharines",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.167376,
+    "lon": -79.241638
+  },
+  "Buffalo, Erie County, New York, USA": {
+    "address": "Buffalo, Erie County, New York, USA",
+    "city": "Buffalo",
+    "state": "New York",
+    "country": "USA",
+    "lat": 42.8867166,
+    "lon": -78.8783922
+  },
+  "Ottawa, Eastern Ontario, Ontario, K1P 1J1, Canada": {
+    "address": "Ottawa, Eastern Ontario, Ontario, K1P 1J1, Canada",
+    "city": "Ottawa",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 45.421106,
+    "lon": -75.690308
+  },
+  "London, Ontario, Canada": {
+    "address": "London, Ontario, Canada",
+    "city": "London",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 42.9537654,
+    "lon": -81.2291529
+  },
+  "Edmonton, Alberta, Canada": {
+    "address": "Edmonton, Alberta, Canada",
+    "city": "Edmonton",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 53.535411,
+    "lon": -113.507996
+  },
+  "Cambridge, Middlesex County, Massachusetts, United States of America": {
+    "address": "Cambridge, Middlesex County, Massachusetts, United States of America",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "country": "United States of America",
+    "lat": 42.3750997,
+    "lon": -71.1056157
+  },
+  "Bloomington, Monroe County, Indiana, USA": {
+    "address": "Bloomington, Monroe County, Indiana, USA",
+    "city": "Bloomington",
+    "state": "Indiana",
+    "country": "USA",
+    "lat": 39.1670396,
+    "lon": -86.5342881
+  },
+  "Sudbury, Sudbury District, Northeastern Ontario, Ontario, P3C 1S9, Canada": {
+    "address": "Sudbury, Sudbury District, Northeastern Ontario, Ontario, P3C 1S9, Canada",
+    "city": "Sudbury",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 46.49272,
+    "lon": -80.991211
+  },
+  "Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada": {
+    "address": "Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",
+    "city": "Montreal",
+    "state": "Quebec",
+    "country": "Canada",
+    "lat": 45.4972159,
+    "lon": -73.6103642
+  },
+  "Hamilton, Golden Horseshoe, Ontario, L8N 1A3, Canada": {
+    "address": "Hamilton, Golden Horseshoe, Ontario, L8N 1A3, Canada",
+    "city": "Hamilton",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.255205,
+    "lon": -79.868202
+  },
+  "St. John's, Newfoundland, Newfoundland and Labrador, A1C 2G4, Canada": {
+    "address": "St. John's, Newfoundland, Newfoundland and Labrador, A1C 2G4, Canada",
+    "city": "St. John's",
+    "state": "Newfoundland and Labrador",
+    "country": "Canada",
+    "lat": 47.561701,
+    "lon": -52.715149
+  },
+  "North Bay, Nipissing District, Northeastern Ontario, Ontario, Canada": {
+    "address": "North Bay, Nipissing District, Northeastern Ontario, Ontario, Canada",
+    "city": "North Bay",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 46.3092115,
+    "lon": -79.4607617
+  },
+  "Toronto, Golden Horseshoe, Ontario, M6K 1X9, Canada": {
+    "address": "Toronto, Golden Horseshoe, Ontario, M6K 1X9, Canada",
+    "city": "Toronto",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.653963,
+    "lon": -79.387207
+  },
+  "Geneseo, Geneseo Town, Livingston County, New York, USA": {
+    "address": "Geneseo, Geneseo Town, Livingston County, New York, USA",
+    "city": "Geneseo",
+    "state": "New York",
+    "country": "USA",
+    "lat": 42.795896,
+    "lon": -77.816947
+  },
+  "Oswego County, New York, USA": {
+    "address": "Oswego County, New York, USA",
+    "city": "Oswego County",
+    "state": "New York",
+    "country": "USA",
+    "lat": 43.4112973,
+    "lon": -76.1279841
+  },
+  "Saskatoon, Census Division No. 11, Saskatchewan, Canada": {
+    "address": "Saskatoon, Census Division No. 11, Saskatchewan, Canada",
+    "city": "Saskatoon",
+    "state": "Saskatchewan",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lon": -106.660767
+  },
+  "Burnaby, Metro Vancouver Regional District, British Columbia, Canada": {
+    "address": "Burnaby, Metro Vancouver Regional District, British Columbia, Canada",
+    "city": "Burnaby",
+    "state": "British Columbia",
+    "country": "Canada",
+    "lat": 49.2433804,
+    "lon": -122.9725459
+  },
+  "Lille, Nord, Hauts-de-France, Metropolitan France, France": {
+    "address": "Lille, Nord, Hauts-de-France, Metropolitan France, France",
+    "city": "Lille",
+    "state": "Hauts-de-France",
+    "country": "France",
+    "lat": 50.6365654,
+    "lon": 3.0635282
+  },
+  "Vancouver, Metro Vancouver Regional District, British Columbia, Canada": {
+    "address": "Vancouver, Metro Vancouver Regional District, British Columbia, Canada",
+    "city": "Vancouver",
+    "state": "British Columbia",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lon": -123.1139529
+  },
+  "Calgary, Alberta, Canada": {
+    "address": "Calgary, Alberta, Canada",
+    "city": "Calgary",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 51.02532675,
+    "lon": -114.049868485806
+  },
+  "Berkeley, Alameda County, California, USA": {
+    "address": "Berkeley, Alameda County, California, USA",
+    "city": "Berkeley",
+    "state": "California",
+    "country": "USA",
+    "lat": 37.8708393,
+    "lon": -122.2728639
+  },
+  "Guelph, Southwestern Ontario, Ontario, Canada": {
+    "address": "Guelph, Southwestern Ontario, Ontario, Canada",
+    "city": "Guelph",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.533783,
+    "lon": -80.2306337
+  },
+  "Winnipeg, Winnipeg (city), Manitoba, Canada": {
+    "address": "Winnipeg, Winnipeg (city), Manitoba, Canada",
+    "city": "Winnipeg",
+    "state": "Manitoba",
+    "country": "Canada",
+    "lat": 49.884017,
+    "lon": -97.168579
+  },
+  "Fredericton, York County, New Brunswick, Canada": {
+    "address": "Fredericton, York County, New Brunswick, Canada",
+    "city": "Fredericton",
+    "state": "New Brunswick",
+    "country": "Canada",
+    "lat": 45.966425,
+    "lon": -66.645813
+  },
+  "Victoria, Capital Regional District, British Columbia, Canada": {
+    "address": "Victoria, Capital Regional District, British Columbia, Canada",
+    "city": "Victoria",
+    "state": "British Columbia",
+    "country": "Canada",
+    "lat": 48.4283182,
+    "lon": -123.3649533
+  },
+  "Waterloo, Waterloo Region, Southwestern Ontario, Ontario, Canada": {
+    "address": "Waterloo, Waterloo Region, Southwestern Ontario, Ontario, Canada",
+    "city": "Waterloo",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.466874,
+    "lon": -80.524635
+  },
+  "Windsor, Southwestern Ontario, Ontario, N8X 3L9, Canada": {
+    "address": "Windsor, Southwestern Ontario, Ontario, N8X 3L9, Canada",
+    "city": "Windsor",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 42.30423,
+    "lon": -83.029861
+  },
+  "Vaughan, York Region, Golden Horseshoe, Ontario, Canada": {
+    "address": "Vaughan, York Region, Golden Horseshoe, Ontario, Canada",
+    "city": "Vaughan",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.820904,
+    "lon": -79.5084
+  },
+  "Atlanta, Fulton County, Georgia, USA": {
+    "address": "Atlanta, Fulton County, Georgia, USA",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "country": "USA",
+    "lat": 33.7490987,
+    "lon": -84.3901849
+  },
+  "Washington, District of Columbia, USA": {
+    "address": "Washington, District of Columbia, USA",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "country": "USA",
+    "lat": 38.8950092,
+    "lon": -77.0365625
+  },
+  "New York, United States of America": {
+    "address": "New York, United States of America",
+    "city": "New York",
+    "state": "New York",
+    "country": "United States of America",
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Columbus, Franklin County, Ohio, United States of America": {
+    "address": "Columbus, Franklin County, Ohio, United States of America",
+    "city": "Columbus",
+    "state": "Ohio",
+    "country": "United States of America",
+    "lat": 39.9622601,
+    "lon": -83.0007065
+  },
+  "Rochester, Monroe County, New York, USA": {
+    "address": "Rochester, Monroe County, New York, USA",
+    "city": "Rochester",
+    "state": "New York",
+    "country": "USA",
+    "lat": 43.157285,
+    "lon": -77.615214
+  },
+  "Palo Alto, Santa Clara County, California, United States of America": {
+    "address": "Palo Alto, Santa Clara County, California, United States of America",
+    "city": "Palo Alto",
+    "state": "California",
+    "country": "United States of America",
+    "lat": 37.4443293,
+    "lon": -122.1598465
+  },
+  "Charlottetown, Queens County, Prince Edward Island, C1A 4C5, Canada": {
+    "address": "Charlottetown, Queens County, Prince Edward Island, C1A 4C5, Canada",
+    "city": "Charlottetown",
+    "state": "Prince Edward Island",
+    "country": "Canada",
+    "lat": 46.234953,
+    "lon": -63.132935
+  },
+  "San Diego, San Diego County, California, USA": {
+    "address": "San Diego, San Diego County, California, USA",
+    "city": "San Diego",
+    "state": "California",
+    "country": "USA",
+    "lat": 32.7174209,
+    "lon": -117.1627714
+  },
+  "Rohnert Park, Sonoma County, California, United States of America": {
+    "address": "Rohnert Park, Sonoma County, California, United States of America",
+    "city": "Rohnert Park",
+    "state": "California",
+    "country": "United States of America",
+    "lat": 38.3396367,
+    "lon": -122.7010984
+  },
+  "Halifax, Halifax County, Nova Scotia, Canada": {
+    "address": "Halifax, Halifax County, Nova Scotia, Canada",
+    "city": "Halifax",
+    "state": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.8543667,
+    "lon": -63.137798
+  },
+  "Sherwood Park, Edmonton (city), Alberta, Canada": {
+    "address": "Sherwood Park, Edmonton (city), Alberta, Canada",
+    "city": "Sherwood Park",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 53.5256963,
+    "lon": -113.2966313
+  },
+  "Prince George, Regional District of Fraser-Fort George, British Columbia, Canada": {
+    "address": "Prince George, Regional District of Fraser-Fort George, British Columbia, Canada",
+    "city": "Prince George",
+    "state": "British Columbia",
+    "country": "Canada",
+    "lat": 53.9128645,
+    "lon": -122.7453699
+  },
+  "Fairbanks, Fairbanks North Star, Alaska, USA": {
+    "address": "Fairbanks, Fairbanks North Star, Alaska, USA",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "country": "USA",
+    "lat": 64.837845,
+    "lon": -147.716675
+  },
+  "Chicago, Cook County, Illinois, United States of America": {
+    "address": "Chicago, Cook County, Illinois, United States of America",
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "United States of America",
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  },
+  "Ghent, Gent, East Flanders, Flanders, Belgium": {
+    "address": "Ghent, Gent, East Flanders, Flanders, Belgium",
+    "city": "Ghent",
+    "state": "Flanders",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lon": 3.7250121
+  },
+  "Houston, Harris County, Texas, United States of America": {
+    "address": "Houston, Harris County, Texas, United States of America",
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States of America",
+    "lat": 29.7589382,
+    "lon": -95.3676974
+  },
+  "Champaign-Urbana, Champaign-Urbana Illinois Terminal, Champaign, Champaign County, Illinois, 61820-3720, USA": {
+    "address": "Champaign-Urbana, Champaign-Urbana Illinois Terminal, Champaign, Champaign County, Illinois, 61820-3720, USA",
+    "city": "Champaign",
+    "state": "Illinois",
+    "country": "USA",
+    "lat": 40.1157971,
+    "lon": -88.2407386
+  },
+  "Lawrence County, Pennsylvania, USA": {
+    "address": "Lawrence County, Pennsylvania, USA",
+    "city": "Lawrence County",
+    "state": "Pennsylvania",
+    "country": "USA",
+    "lat": 41.001415,
+    "lon": -80.350071
+  },
+  "Ann Arbor, Washtenaw County, Michigan, USA": {
+    "address": "Ann Arbor, Washtenaw County, Michigan, USA",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "country": "USA",
+    "lat": 42.2681569,
+    "lon": -83.7312291
+  },
+  "Oxford, Lafayette County, Mississippi, 38655, USA": {
+    "address": "Oxford, Lafayette County, Mississippi, 38655, USA",
+    "city": "Oxford",
+    "state": "Mississippi",
+    "country": "USA",
+    "lat": 34.3664127,
+    "lon": -89.5187664
+  },
+  "Reno, Washoe County, Nevada, USA": {
+    "address": "Reno, Washoe County, Nevada, USA",
+    "city": "Reno",
+    "state": "Nevada",
+    "country": "USA",
+    "lat": 39.52927,
+    "lon": -119.8136744
+  },
+  "Denton, Caroline County, Maryland, USA": {
+    "address": "Denton, Caroline County, Maryland, USA",
+    "city": "Denton",
+    "state": "Maryland",
+    "country": "USA",
+    "lat": 38.8845583,
+    "lon": -75.8271564
+  },
+  "Regina, Census Division No. 6, Saskatchewan, Canada": {
+    "address": "Regina, Census Division No. 6, Saskatchewan, Canada",
+    "city": "Regina",
+    "state": "Saskatchewan",
+    "country": "Canada",
+    "lat": 50.44876,
+    "lon": -104.61731
+  },
+  "Columbia, Richland County, South Carolina, USA": {
+    "address": "Columbia, Richland County, South Carolina, USA",
+    "city": "Columbia",
+    "state": "South Carolina",
+    "country": "USA",
+    "lat": 34.0007493,
+    "lon": -81.0343313
+  },
+  "Knoxville, Knox County, Tennessee, United States of America": {
+    "address": "Knoxville, Knox County, Tennessee, United States of America",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "country": "United States of America",
+    "lat": 35.9603948,
+    "lon": -83.9210261
+  },
+  "Burlington, Chittenden County, Vermont, USA": {
+    "address": "Burlington, Chittenden County, Vermont, USA",
+    "city": "Burlington",
+    "state": "Vermont",
+    "country": "USA",
+    "lat": 44.4762975,
+    "lon": -73.2135472
+  },
+  "Charlottesville, Virginia, USA": {
+    "address": "Charlottesville, Virginia, USA",
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "country": "USA",
+    "lat": 38.029306,
+    "lon": -78.4766781
+  },
+  "Seattle, King County, Washington, United States of America": {
+    "address": "Seattle, King County, Washington, United States of America",
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States of America",
+    "lat": 47.6038321,
+    "lon": -122.3300624
+  },
+  "Madison, Madison County, Mississippi, USA": {
+    "address": "Madison, Madison County, Mississippi, USA",
+    "city": "Madison",
+    "state": "Mississippi",
+    "country": "USA",
+    "lat": 32.4618086,
+    "lon": -90.1153638
+  },
+  "Blacksburg, Montgomery County, Virginia, United States of America": {
+    "address": "Blacksburg, Montgomery County, Virginia, United States of America",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "country": "United States of America",
+    "lat": 37.2296566,
+    "lon": -80.4136767
+  },
+  "Villanova, Delaware County, Pennsylvania, 19085, USA": {
+    "address": "Villanova, Delaware County, Pennsylvania, 19085, USA",
+    "city": "Villanova",
+    "state": "Pennsylvania",
+    "country": "USA",
+    "lat": 40.0373323,
+    "lon": -75.3490769
+  },
+  "Pullman, Whitman County, Washington, USA": {
+    "address": "Pullman, Whitman County, Washington, USA",
+    "city": "Pullman",
+    "state": "Washington",
+    "country": "USA",
+    "lat": 46.7304268,
+    "lon": -117.173895
+  },
+  "Wheaton, DuPage County, Illinois, United States of America": {
+    "address": "Wheaton, DuPage County, Illinois, United States of America",
+    "city": "Wheaton",
+    "state": "Illinois",
+    "country": "United States of America",
+    "lat": 41.8646959,
+    "lon": -88.1101709
+  },
+  "New Haven, New Haven County, Connecticut, USA": {
+    "address": "New Haven, New Haven County, Connecticut, USA",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "country": "USA",
+    "lat": 41.3082138,
+    "lon": -72.9250518
+  },
+  "Spruce Grove, Alberta, T7X 3E8, Canada": {
+    "address": "Spruce Grove, Alberta, T7X 3E8, Canada",
+    "city": "Spruce Grove",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 53.545204,
+    "lon": -113.903503
+  },
+  "Lawrence, Douglas County, Kansas, USA": {
+    "address": "Lawrence, Douglas County, Kansas, USA",
+    "city": "Lawrence",
+    "state": "Kansas",
+    "country": "USA",
+    "lat": 38.9719384,
+    "lon": -95.2359496
+  },
+  "Denton County, Texas, USA": {
+    "address": "Denton County, Texas, USA",
+    "city": "Denton",
+    "state": "Texas",
+    "country": "USA",
+    "lat": 33.1838787,
+    "lon": -97.1413417
+  },
+  "Madison, Dane County, Wisconsin, United States of America": {
+    "address": "Madison, Dane County, Wisconsin, United States of America",
+    "city": "Madison",
+    "state": "Wisconsin",
+    "country": "United States of America",
+    "lat": 43.074761,
+    "lon": -89.3837613
+  },
+  "Los Angeles, Los Angeles County, California, United States of America": {
+    "address": "Los Angeles, Los Angeles County, California, United States of America",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "United States of America",
+    "lat": 34.0536909,
+    "lon": -118.2427666
+  },
+  "Brandon, Manitoba, Canada": {
+    "address": "Brandon, Manitoba, Canada",
+    "city": "Brandon",
+    "state": "Manitoba",
+    "country": "Canada",
+    "lat": 49.8511143,
+    "lon": -99.9608924
+  },
+  "Sacramento, Sacramento County, California, USA": {
+    "address": "Sacramento, Sacramento County, California, USA",
+    "city": "Sacramento",
+    "state": "California",
+    "country": "USA",
+    "lat": 38.5815719,
+    "lon": -121.4943996
+  },
+  "Fiesole, Metropolitan City of Florence, Tuscany, Italy": {
+    "address": "Fiesole, Metropolitan City of Florence, Tuscany, Italy",
+    "city": "Fiesole",
+    "state": "Tuscany",
+    "country": "Italy",
+    "lat": 43.8066689,
+    "lon": 11.2930735
+  },
+  "Williamsburg, Williamsburg (city), Virginia, 23185, USA": {
+    "address": "Williamsburg, Williamsburg (city), Virginia, 23185, USA",
+    "city": "Williamsburg",
+    "state": "Virginia",
+    "country": "USA",
+    "lat": 37.2708788,
+    "lon": -76.7074042
+  },
+  "Denver, Denver County, Colorado, United States of America": {
+    "address": "Denver, Denver County, Colorado, United States of America",
+    "city": "Denver",
+    "state": "Colorado",
+    "country": "United States of America",
+    "lat": 39.7392364,
+    "lon": -104.9848623
+  },
+  "Ballerup, Pederstrup, Ballerup Municipality, Capital Region of Denmark, 2750, Denmark": {
+    "address": "Ballerup, Pederstrup, Ballerup Municipality, Capital Region of Denmark, 2750, Denmark",
+    "city": "Pederstrup",
+    "state": "Capital Region of Denmark",
+    "country": "Denmark",
+    "lat": 55.7303589,
+    "lon": 12.3612313
+  },
+  "Abbotsford, Fraser Valley Regional District, British Columbia, Canada": {
+    "address": "Abbotsford, Fraser Valley Regional District, British Columbia, Canada",
+    "city": "Abbotsford",
+    "state": "British Columbia",
+    "country": "Canada",
+    "lat": 49.0521162,
+    "lon": -122.3294792
+  },
+  "Barrie, Central Ontario, Ontario, Canada": {
+    "address": "Barrie, Central Ontario, Ontario, Canada",
+    "city": "Barrie",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 44.3893113,
+    "lon": -79.6901736
+  },
+  "Halton Hills, Halton Region, Golden Horseshoe, Ontario, Canada": {
+    "address": "Halton Hills, Halton Region, Golden Horseshoe, Ontario, Canada",
+    "city": "Halton Hills",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.6512888,
+    "lon": -79.9142216
+  },
+  "Hamburg, 20095, Germany": {
+    "address": "Hamburg, 20095, Germany",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "Germany",
+    "lat": 53.550341,
+    "lon": 10.000654
+  },
+  "Mexico City, Cuauhtémoc, Mexico City, 06060, Mexico": {
+    "address": "Mexico City, Cuauhtémoc, Mexico City, 06060, Mexico",
+    "city": "Mexico City",
+    "state": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.4326009,
+    "lon": -99.1333416
+  },
+  "Issaquah, King County, Washington, USA": {
+    "address": "Issaquah, King County, Washington, USA",
+    "city": "Issaquah",
+    "state": "Washington",
+    "country": "USA",
+    "lat": 47.5348778,
+    "lon": -122.0432974
+  },
+  "Thunder Bay, Thunder Bay District, Northwestern Ontario, Ontario, Canada": {
+    "address": "Thunder Bay, Thunder Bay District, Northwestern Ontario, Ontario, Canada",
+    "city": "Thunder Bay",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 48.406414,
+    "lon": -89.259796
+  },
+  "Quebec City, Québec (Agglomération), Capitale-Nationale, Quebec, Canada": {
+    "address": "Quebec City, Québec (Agglomération), Capitale-Nationale, Quebec, Canada",
+    "city": "Quebec City",
+    "state": "Quebec",
+    "country": "Canada",
+    "lat": 46.8259601,
+    "lon": -71.2352226
+  },
+  "Belleville, Ontario, Canada": {
+    "address": "Belleville, Ontario, Canada",
+    "city": "Belleville",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 44.2436328,
+    "lon": -77.3607597
+  },
+  "Oxford, Oxford Township, Butler County, Ohio, USA": {
+    "address": "Oxford, Oxford Township, Butler County, Ohio, USA",
+    "city": "Oxford",
+    "state": "Ohio",
+    "country": "USA",
+    "lat": 39.5103048,
+    "lon": -84.7420519
+  },
+  "Bozeman, Gallatin County, Montana, United States of America": {
+    "address": "Bozeman, Gallatin County, Montana, United States of America",
+    "city": "Bozeman",
+    "state": "Montana",
+    "country": "United States of America",
+    "lat": 45.679984,
+    "lon": -111.044675
+  },
+  "Raleigh, Wake County, North Carolina, United States of America": {
+    "address": "Raleigh, Wake County, North Carolina, United States of America",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "country": "United States of America",
+    "lat": 35.7803977,
+    "lon": -78.6390989
+  },
+  "Evanston, Cook County, Illinois, United States of America": {
+    "address": "Evanston, Cook County, Illinois, United States of America",
+    "city": "Evanston",
+    "state": "Illinois",
+    "country": "United States of America",
+    "lat": 42.0447388,
+    "lon": -87.6930459
+  },
+  "University of Notre Dame du Lac, Foster Street, South Bend, Saint Joseph County, Indiana, 46556, USA": {
+    "address": "University of Notre Dame du Lac, Foster Street, South Bend, Saint Joseph County, Indiana, 46556, USA",
+    "city": "South Bend",
+    "state": "Indiana",
+    "country": "USA",
+    "lat": 41.70456775,
+    "lon": -86.2382202601727
+  },
+  "Dublin, Franklin County, Ohio, USA": {
+    "address": "Dublin, Franklin County, Ohio, USA",
+    "city": "Dublin",
+    "state": "Ohio",
+    "country": "USA",
+    "lat": 40.0992294,
+    "lon": -83.1140771
+  },
+  "Oakville, Halton Region, Golden Horseshoe, Ontario, Canada": {
+    "address": "Oakville, Halton Region, Golden Horseshoe, Ontario, Canada",
+    "city": "Oakville",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.447436,
+    "lon": -79.666672
+  },
+  "Corvallis, Benton County, Oregon, USA": {
+    "address": "Corvallis, Benton County, Oregon, USA",
+    "city": "Corvallis",
+    "state": "Oregon",
+    "country": "USA",
+    "lat": 44.5645659,
+    "lon": -123.2620435
+  },
+  "Kingston, Eastern Ontario, Ontario, K7L 2Z3, Canada": {
+    "address": "Kingston, Eastern Ontario, Ontario, K7L 2Z3, Canada",
+    "city": "Kingston",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 44.230687,
+    "lon": -76.481323
+  },
+  "Portland, Multnomah County, Oregon, USA": {
+    "address": "Portland, Multnomah County, Oregon, USA",
+    "city": "Portland",
+    "state": "Oregon",
+    "country": "USA",
+    "lat": 45.5202471,
+    "lon": -122.6741949
+  },
+  "Lethbridge, City of Lethbridge, Alberta, T1J 4L3, Canada": {
+    "address": "Lethbridge, City of Lethbridge, Alberta, T1J 4L3, Canada",
+    "city": "Lethbridge",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 49.694285,
+    "lon": -112.851562
+  },
+  "Maskwacis, Alberta, T0C 1N0, Canada": {
+    "address": "Maskwacis, Alberta, T0C 1N0, Canada",
+    "city": "Maskwacis",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 52.8345485,
+    "lon": -113.4506814
+  },
+  "Lansing, Ingham County, Michigan, USA": {
+    "address": "Lansing, Ingham County, Michigan, USA",
+    "city": "Lansing",
+    "state": "Michigan",
+    "country": "USA",
+    "lat": 42.7337712,
+    "lon": -84.5553805
+  },
+  "Slave Lake, Town of Slave Lake, Alberta, T0G 2A2, Canada": {
+    "address": "Slave Lake, Town of Slave Lake, Alberta, T0G 2A2, Canada",
+    "city": "Slave Lake",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 55.2810741,
+    "lon": -114.7717876
+  },
+  "Oshawa, Durham Region, Golden Horseshoe, Ontario, Canada": {
+    "address": "Oshawa, Durham Region, Golden Horseshoe, Ontario, Canada",
+    "city": "Oshawa",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.91768,
+    "lon": -78.862953
+  },
+  "The Bahamas": {
+    "address": "The Bahamas",
+    "city": "The Bahamas",
+    "state": null,
+    "country": "The Bahamas",
+    "lat": 24.7736546,
+    "lon": -78.0000547
+  },
+  "Cincinnati, Hamilton County, Ohio, United States of America": {
+    "address": "Cincinnati, Hamilton County, Ohio, United States of America",
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "country": "United States of America",
+    "lat": 39.1014537,
+    "lon": -84.5124602
+  },
+  "Westmount, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada": {
+    "address": "Westmount, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",
+    "city": "Westmount",
+    "state": "Quebec",
+    "country": "Canada",
+    "lat": 45.4857329,
+    "lon": -73.5963951
+  },
+  "Mississauga, Peel Region, Golden Horseshoe, Ontario, Canada": {
+    "address": "Mississauga, Peel Region, Golden Horseshoe, Ontario, Canada",
+    "city": "Mississauga",
+    "state": "Ontario",
+    "country": "Canada",
+    "lat": 43.590338,
+    "lon": -79.645729
+  },
+  "Southampton, South East, England, United Kingdom": {
+    "address": "Southampton, South East, England, United Kingdom",
+    "city": "",
+    "state": "England",
+    "country": "United Kingdom",
+    "lat": 50.9137978,
+    "lon": -1.39904048346365
+  }
+}

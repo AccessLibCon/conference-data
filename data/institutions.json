@@ -1,0 +1,1868 @@
+{
+  "": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Alberta Legislature Library": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Alouette Canada": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Ameritech": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Analog Devices": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Archives Unleashed": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Artefactual Systems": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "Athabasca University Library": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Atomiq": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Auto-Graphics Canada": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "BC Electronic Library Network": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "BC Libraries Coop": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "BC Libraries Coop, Vancouver, BC": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "BC Libraries Cooperative": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "BC Libraries Cooperative, Vancouver, BC": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "BC Public Library Services Branch": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "BiblioCommons": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Bibliocommons": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Bibliomatics, Inc., Ottawa": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Boing Boing": {
+    "city": "Los Angeles",
+    "type": null,
+    "ignore": false
+  },
+  "Brandon University": {
+    "city": "Brandon, Manitoba",
+    "type": null,
+    "ignore": false
+  },
+  "Brock University": {
+    "city": "St. Catharine's",
+    "type": null,
+    "ignore": false
+  },
+  "Brock University, St. Catharines, ON": {
+    "city": "St. Catharine's",
+    "type": null,
+    "ignore": false
+  },
+  "Buffalo State College": {
+    "city": "Buffalo",
+    "type": null,
+    "ignore": false
+  },
+  "CANARIE": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "CAPER-BC": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "CBC": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "CISTI": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "CLIR/DLF": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "CNI": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "CNI: Coalition for Networked Information": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "California Digital Library": {
+    "city": "Sacramento",
+    "type": null,
+    "ignore": false
+  },
+  "CanLII": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "CanadaLand": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Canadian Forces College": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Canadian National Institute for the Blind": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Canadian Research Knowledge Network": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Canadiana": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Canadiana.org": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Carleton University": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Carleton University Library": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Carleton University, Ottawa": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Casalini Libri": {
+    "city": "Fiesole",
+    "type": null,
+    "ignore": false
+  },
+  "Catalyst IT": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Chadwyck-Healey": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Cherry Hill Co.": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "City of Vancouver": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "Coalition for Networked Information": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "Coalition of Networked Information": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "College of William and Mary, Williamsburg, VA": {
+    "city": "Williamsburg, Virginia",
+    "type": null,
+    "ignore": false
+  },
+  "Colorado Alliance of Research Libraries": {
+    "city": "Denver",
+    "type": null,
+    "ignore": false
+  },
+  "Colorado State Library, Denver, CO": {
+    "city": "Denver",
+    "type": null,
+    "ignore": false
+  },
+  "Colorado Virtual Library": {
+    "city": "Denver",
+    "type": null,
+    "ignore": false
+  },
+  "Concordia University": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Concordia University of Edmonton": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "DH MakerBus": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "DRA": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Dalhousie Library": {
+    "city": "Halifax, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Dalhousie Library, Halifax, NS": {
+    "city": "Halifax, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Dalhousie University, Halifax, NS": {
+    "city": "Halifax, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Danish Bibliographic Center, Ballerup, Denmark": {
+    "city": "Ballerup",
+    "type": null,
+    "ignore": false
+  },
+  "Digital Initiatives": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Digital Library Federation": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Discovery Garden": {
+    "city": "Charlottetown",
+    "type": null,
+    "ignore": false
+  },
+  "EBSCO": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "EBSCO Publishing": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "EPrints Services": {
+    "city": "Southampton, United Kingdom",
+    "type": null,
+    "ignore": false
+  },
+  "Edmonton": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Edmonton Public Library": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Emory University": {
+    "city": "Atlanta",
+    "type": null,
+    "ignore": false
+  },
+  "Emory University, Atlanta, GA": {
+    "city": "Atlanta",
+    "type": null,
+    "ignore": false
+  },
+  "Endeavor": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Endeavor Information Systems": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Equinox": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Equinox Software": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Equinox Software, Free Range Librarian": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "European Software Development": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Ex Libris": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Fraser Valley Regional Library": {
+    "city": "Abbotsford",
+    "type": null,
+    "ignore": false
+  },
+  "Fraser Valley Regional Library, Abbotsford, BC": {
+    "city": "Abbotsford",
+    "type": null,
+    "ignore": false
+  },
+  "Gaylord": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Gaylord Information Systems": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Geac": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "George Washington University": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "George Washington University, Washington, DC": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "Georgia Tech": {
+    "city": "Atlanta",
+    "type": null,
+    "ignore": false
+  },
+  "Georgia Tech, Atlanta, GA": {
+    "city": "Atlanta",
+    "type": null,
+    "ignore": false
+  },
+  "Georgian College": {
+    "city": "Barrie",
+    "type": null,
+    "ignore": false
+  },
+  "Georgian College, Barrie, ON": {
+    "city": "Barrie",
+    "type": null,
+    "ignore": false
+  },
+  "Getty Research Institute-Library": {
+    "city": "Los Angeles",
+    "type": null,
+    "ignore": false
+  },
+  "Grant MacEwan University": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Grant MacEwan University, Edmonton, AB": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Guelph": {
+    "city": "Guelph",
+    "type": null,
+    "ignore": false
+  },
+  "HALINET": {
+    "city": "Halton Hills",
+    "type": null,
+    "ignore": false
+  },
+  "Halton Hills Public Library": {
+    "city": "Halton Hills",
+    "type": null,
+    "ignore": false
+  },
+  "Hamburg University": {
+    "city": "Hamburg",
+    "type": null,
+    "ignore": false
+  },
+  "Harvard University": {
+    "city": "Cambridge, MA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Harvard University, Cambridge, MA": {
+    "city": "Cambridge, MA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Heritance and Open Museum": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Indiana University Bloomington": {
+    "city": "Bloomington, IN, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Information Systems Librarian": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Innovative": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Instituto de Biotecnologia-UNAM": {
+    "city": "Mexico City",
+    "type": null,
+    "ignore": false
+  },
+  "International Labour Organization": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Justice Canada": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "K-Net Services": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "King County Library System": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "King County Library System, Issaquah, WA": {
+    "city": "Issaquah",
+    "type": null,
+    "ignore": false
+  },
+  "Koha Project": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "LAC": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Lakehead University": {
+    "city": "Thunder Bay",
+    "type": null,
+    "ignore": true
+  },
+  "Lakehead University, Thunder Bay, ON": {
+    "city": "Thunder Bay",
+    "type": null,
+    "ignore": false
+  },
+  "Laurentian University": {
+    "city": "Sudbury",
+    "type": null,
+    "ignore": false
+  },
+  "Laurentian University, Sudbury, ON": {
+    "city": "Sudbury",
+    "type": null,
+    "ignore": false
+  },
+  "Laval": {
+    "city": "Quebec City",
+    "type": null,
+    "ignore": false
+  },
+  "Laval University": {
+    "city": "Quebec City",
+    "type": null,
+    "ignore": false
+  },
+  "Lean Analytics": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Lethbridge College": {
+    "city": "Lethbridge",
+    "type": null,
+    "ignore": false
+  },
+  "LibLime": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Library and Archives Canada": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Library and Archives Canada, Ottawa": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Library of Congress": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "Library of Congress, Washington, DC": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "London Public Library": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Loyalist College": {
+    "city": "Belleville, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Loyalist College, Belleville, ON": {
+    "city": "Belleville, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Lulu.com": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "MacEwan University": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "MacEwan University, Edmonton, AB": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "MacOdrum Library": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Maskwacis Cultural College": {
+    "city": "Maskwacis",
+    "type": null,
+    "ignore": false
+  },
+  "Massachusetts Institute of Technology": {
+    "city": "Cambridge, Massachusetts, USA",
+    "type": null,
+    "ignore": false
+  },
+  "McGill University": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "McGill University Archives": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "McGill University Library": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "McGill University, Montreal": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "McGill, Montreal": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "McMaster University": {
+    "city": "Hamilton",
+    "type": null,
+    "ignore": false
+  },
+  "McMaster University Library": {
+    "city": "Hamilton",
+    "type": null,
+    "ignore": false
+  },
+  "McMaster University, Hamilton, ON": {
+    "city": "Hamilton",
+    "type": null,
+    "ignore": false
+  },
+  "Memorial University": {
+    "city": "St. John's",
+    "type": null,
+    "ignore": false
+  },
+  "Memorial University of Newfoundland": {
+    "city": "St. John's",
+    "type": null,
+    "ignore": false
+  },
+  "Memorial University of Newfoundland, St. John's, NF": {
+    "city": "St. John's",
+    "type": null,
+    "ignore": false
+  },
+  "Memorial University, Edmonton, AB": {
+    "city": "St. John's",
+    "type": null,
+    "ignore": false
+  },
+  "Memorial University, St. John's, NF": {
+    "city": "St. John's",
+    "type": null,
+    "ignore": false
+  },
+  "Miami University": {
+    "city": "Oxford, Ohio, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Michigan State University": {
+    "city": "Lansing, Michigan, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Moment Factory": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Montana State University": {
+    "city": "Bozeman",
+    "type": null,
+    "ignore": false
+  },
+  "Montana State University, Bozeman, MT": {
+    "city": "Bozeman",
+    "type": null,
+    "ignore": false
+  },
+  "Mount Royal University": {
+    "city": "Calgary",
+    "type": null,
+    "ignore": false
+  },
+  "Mount Royal University Library": {
+    "city": "Calgary",
+    "type": null,
+    "ignore": false
+  },
+  "Mount Saint Vincent University": {
+    "city": "Halifax",
+    "type": null,
+    "ignore": false
+  },
+  "NAIT": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "NCSU": {
+    "city": "Raleigh",
+    "type": null,
+    "ignore": false
+  },
+  "NSCAD University": {
+    "city": "Halifax, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "NSCAD University Library": {
+    "city": "Halifax, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "National Library of Canada, Ottawa": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "National Research Council": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "National Research Council, Ottawa": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "NeoInsight": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Neptune Canada": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "New York Times": {
+    "city": "New York, NY, USA",
+    "type": null,
+    "ignore": false
+  },
+  "NorQuest College": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "North Bay Public Library": {
+    "city": "North Bay",
+    "type": "public",
+    "ignore": false
+  },
+  "North Carolina State University Libraries": {
+    "city": "Raleigh",
+    "type": null,
+    "ignore": false
+  },
+  "North Carolina State University, Raleigh, NC": {
+    "city": "Raleigh",
+    "type": null,
+    "ignore": false
+  },
+  "Northern Lakes College": {
+    "city": "Slave Lake",
+    "type": null,
+    "ignore": false
+  },
+  "Northern Light": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Northwestern University, Evanston, IL": {
+    "city": "Evanston",
+    "type": null,
+    "ignore": false
+  },
+  "Notre Dame University": {
+    "city": "Notre Dame",
+    "type": null,
+    "ignore": false
+  },
+  "Novanet Inc.": {
+    "city": "Halifax",
+    "type": null,
+    "ignore": false
+  },
+  "OCAD University": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "OCAD University, Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "OCAD University, formerly Toronto Public Library": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "OCLC": {
+    "city": "Dublin, Ohio, USA",
+    "type": null,
+    "ignore": false
+  },
+  "ODL Catalyst Team": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "ORCID": {
+    "city": "Calgary",
+    "type": null,
+    "ignore": false
+  },
+  "OVID": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Oakville Public Library": {
+    "city": "Oakville, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "OhioLINK": {
+    "city": "Columbus",
+    "type": null,
+    "ignore": false
+  },
+  "Ontario Colleges Library Service": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Ontario Colleges Library Service, Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Ontario Tech University": {
+    "city": "Oshawa",
+    "type": null,
+    "ignore": false
+  },
+  "Openly Informatics, Inc.": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Oregon State University, Corvallis, OR": {
+    "city": "Corvallis, Oregon, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Osgoode Hall Law School Library at York University": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Osgoode Hall Law School Library at York University, Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "OurOntario": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Pictou-Antigonish Regional Library": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Pigasus": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Public Safety Canada": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "Queen's University, Kingston, ON": {
+    "city": "Kingston, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "RLG": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Reed College, Portland, OR": {
+    "city": "Portland, Oregon, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Reinvented Inc.": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Reinvented, Inc.": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Relais International": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Research Libraries Group, Inc.": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "River Campus Libraries": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Rochester Institute of Technology": {
+    "city": "Rochester",
+    "type": null,
+    "ignore": false
+  },
+  "Royal Roads University, Victoria, BC": {
+    "city": "Victoria, BC, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Ryerson Library": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Ryerson University": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Ryerson University Library": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Ryerson University Library & Archives": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "Ryerson University, Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "SAIT": {
+    "city": "Calgary",
+    "type": null,
+    "ignore": false
+  },
+  "SCHOOL OF CLINICAL MEDICINE AND RESEARCH": {
+    "city": "The Bahamas",
+    "type": null,
+    "ignore": false
+  },
+  "SFU, Burnaby, BC": {
+    "city": "Burnaby",
+    "type": null,
+    "ignore": false
+  },
+  "SFU, Burnacy, BC": {
+    "city": "Burnaby",
+    "type": null,
+    "ignore": false
+  },
+  "SFX": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "SGL": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "SILS": {
+    "city": "Regina",
+    "type": null,
+    "ignore": false
+  },
+  "SILS Consortium": {
+    "city": "Regina",
+    "type": null,
+    "ignore": false
+  },
+  "SUNY Geneseo": {
+    "city": "Geneseo, NY, USA",
+    "type": null,
+    "ignore": false
+  },
+  "SUNY Oswego": {
+    "city": "Oswego, NY, USA",
+    "type": null,
+    "ignore": false
+  },
+  "SUNY Oswego, Penfield Library": {
+    "city": "Oswego, NY, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Saskatchewan Information & Library Services Consortium": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "Scholars Portal": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "ScholarsPortal": {
+    "city": "Toronto",
+    "use": "Scholars Portal",
+    "type": null,
+    "ignore": false
+  },
+  "Serials Solutions": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "SilverPlatter": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Simon Fraser University": {
+    "city": "Burnaby",
+    "type": null,
+    "ignore": false
+  },
+  "Simon Fraser University Library": {
+    "city": "Burnaby",
+    "type": null,
+    "ignore": false
+  },
+  "Simon Fraser University, Burnaby, BC": {
+    "city": "Burnaby",
+    "type": null,
+    "ignore": false
+  },
+  "Sirsi": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Sirsi Corporation": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Sitka Project Team": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Smithsonian Institution, Washington, DC": {
+    "city": "Washington DC",
+    "type": null,
+    "ignore": false
+  },
+  "Sonoma County Library, Rohnert Park, CA": {
+    "city": "Rohnert Park",
+    "type": null,
+    "ignore": false
+  },
+  "Speaker": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "St. Mary's University, Halifax, NS": {
+    "city": "Halifax, NS, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Stanford": {
+    "city": "Palo Alto",
+    "type": null,
+    "ignore": false
+  },
+  "Stanford University": {
+    "city": "Palo Alto",
+    "type": null,
+    "ignore": false
+  },
+  "Strathcona County Library": {
+    "city": "Sherwood Park, AB, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Suburban Library System": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Sun Microsystems": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Talis": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Textuality": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "The Alberta Library": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Toronto Public Library": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "U Calgary": {
+    "city": "Calgary",
+    "type": null,
+    "ignore": false
+  },
+  "U Saskatchewan": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "U Saskatchewan, Saskatoon, SK": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "U Victoria": {
+    "city": "Victoria, BC, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "U of A": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "UBC, Vancouver, BC": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "UCSD": {
+    "city": "San Diego",
+    "type": null,
+    "ignore": false
+  },
+  "UCSD Libraries": {
+    "city": "San Diego",
+    "type": null,
+    "ignore": false
+  },
+  "UNB": {
+    "city": "Fredericton",
+    "type": null,
+    "ignore": false
+  },
+  "UNB Libraries": {
+    "city": "Fredericton",
+    "type": null,
+    "ignore": false
+  },
+  "UNBC": {
+    "city": "Prince George",
+    "type": null,
+    "ignore": false
+  },
+  "UNBC, Prince George, BC": {
+    "city": "Prince George",
+    "type": null,
+    "ignore": false
+  },
+  "UPEI": {
+    "city": "Charlottetown",
+    "type": null,
+    "ignore": false
+  },
+  "UPEI, Charlottetown, PEI": {
+    "city": "Charlottetown",
+    "type": null,
+    "ignore": false
+  },
+  "UQAM": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "UQAM, Montreal": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "University Charles de Gaulle – Lille": {
+    "city": "Lille",
+    "type": null,
+    "ignore": false
+  },
+  "University Charles de Gaulle – Lille 3 (France": {
+    "city": "Lille",
+    "type": null,
+    "ignore": false
+  },
+  "University Libraries of Notre Dame": {
+    "city": "Notre Dame",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alaska Fairbanks": {
+    "city": "Fairbanks",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta &": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta & McGill University": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta (SLIS)": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta - Access Communications Team": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta - MLIS": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta Libraries": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta Library": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta staff": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta, Edmonton, & McGill University, Montreal": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of Alberta, Edmonton, AB": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "University of British Columbia": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "University of British Columbia, Vancouver, BC": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "University of Calgary": {
+    "city": "Calgary",
+    "type": null,
+    "ignore": false
+  },
+  "University of California Berkeley": {
+    "city": "Berkeley",
+    "type": null,
+    "ignore": false
+  },
+  "University of California San Diego Libraries": {
+    "city": "San Diego",
+    "type": null,
+    "ignore": false
+  },
+  "University of California at Berkeley": {
+    "city": "Berkeley",
+    "type": null,
+    "ignore": false
+  },
+  "University of California, Berkeley": {
+    "city": "Berkeley",
+    "type": null,
+    "ignore": false
+  },
+  "University of Chicago": {
+    "city": "Chicago",
+    "type": null,
+    "ignore": false
+  },
+  "University of Cincinnati": {
+    "city": "Cincinnati",
+    "type": null,
+    "ignore": false
+  },
+  "University of Ghent": {
+    "city": "Ghent",
+    "type": null,
+    "ignore": false
+  },
+  "University of Guelph": {
+    "city": "Guelph",
+    "type": null,
+    "ignore": false
+  },
+  "University of Guelph / Western University": {
+    "city": "Guelph",
+    "type": null,
+    "ignore": false
+  },
+  "University of Houston": {
+    "city": "Houston",
+    "type": null,
+    "ignore": false
+  },
+  "University of Illinois at Urbana-Champaign": {
+    "city": "Champaign-Urbana",
+    "type": null,
+    "ignore": false
+  },
+  "University of Kansas": {
+    "city": "Lawrence, Kansas, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Manitoba": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "University of Manitoba Libraries": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "University of Manitoba, Winnipeg": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "University of Manitoba, Winnipeg, MB": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "University of Michigan, Ann Arbor, MI": {
+    "city": "Ann Arbor, MI, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Mississippi, Oxford, MS": {
+    "city": "Oxford, Mississippi, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Nevada": {
+    "city": "Reno, NV, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Nevada, Reno, NV": {
+    "city": "Reno, NV, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of New Brunswick": {
+    "city": "Fredericton",
+    "type": null,
+    "ignore": false
+  },
+  "University of New Brunswick Libraries": {
+    "city": "Fredericton",
+    "type": null,
+    "ignore": false
+  },
+  "University of New Brunswick, Fredericton, NB": {
+    "city": "Fredericton",
+    "type": null,
+    "ignore": false
+  },
+  "University of North Texas Library": {
+    "city": "Denton, Texas, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of North Texas Library, Denton, TX": {
+    "city": "Denton, Texas, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of North Texas, Denton, TX": {
+    "city": "Denton, Texas, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Northern British Columbia": {
+    "city": "Prince George",
+    "type": null,
+    "ignore": false
+  },
+  "University of Ottawa": {
+    "city": "Ottawa",
+    "type": null,
+    "ignore": false
+  },
+  "University of Prince Edward Island, Charlottetown, PEI": {
+    "city": "Charlottetown",
+    "type": null,
+    "ignore": false
+  },
+  "University of Regina": {
+    "city": "Regina",
+    "type": null,
+    "ignore": false
+  },
+  "University of Regina Library": {
+    "city": "Regina",
+    "type": null,
+    "ignore": false
+  },
+  "University of Rochester": {
+    "city": "Rochester",
+    "type": null,
+    "ignore": false
+  },
+  "University of Saskatchewan": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "University of Saskatchewan Library": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "University of Saskatchewan, Saskatoon, SK": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "University of Sasktchewan, Saskatoon, SK": {
+    "city": "Saskatoon",
+    "type": null,
+    "ignore": false
+  },
+  "University of South Carolina": {
+    "city": "Columbia, SC, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Sudbury": {
+    "city": "Sudbury",
+    "type": null,
+    "ignore": false
+  },
+  "University of Tennessee": {
+    "city": "Knoxville, TN, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Tennessee, Knoxville, TN": {
+    "city": "Knoxville, TN, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "University of Toronto Scarborough": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "University of Vermont": {
+    "city": "Burlington, VT, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Victoria": {
+    "city": "Victoria, BC, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "University of Victoria Libraries": {
+    "city": "Victoria, BC, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "University of Virginia": {
+    "city": "Charlottesville, VA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Virginia, Charlottesville, VA": {
+    "city": "Charlottesville, VA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Washington, Seattle, WA": {
+    "city": "Seattle, WA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Waterloo": {
+    "city": "Waterloo",
+    "type": null,
+    "ignore": false
+  },
+  "University of Waterloo Library": {
+    "city": "Waterloo",
+    "type": null,
+    "ignore": false
+  },
+  "University of Waterloo | Archives Unleashed Project": {
+    "city": "Waterloo, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "University of Western Ontario": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "University of Western Ontario, London, ON": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "University of Windsor": {
+    "city": "Windsor",
+    "type": null,
+    "ignore": false
+  },
+  "University of Winnieg": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "University of Winnipeg": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "University of Wisconsin": {
+    "city": "Madison, Wisconsin, USA",
+    "type": null,
+    "ignore": false
+  },
+  "University of Wisconsin, Madison, WI": {
+    "city": "Madison, Wisconsin, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Université de Montréal": {
+    "city": "Montreal",
+    "type": null,
+    "ignore": false
+  },
+  "Universtiy of Alberta, Edmonton, AB": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Universtiy of North Texas, Denton, TX": {
+    "city": "Denton, TX, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Universtiy of Victoria": {
+    "city": "Victoria, BC, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Universtiy of Virginia": {
+    "city": "Blacksburg",
+    "type": null,
+    "ignore": false
+  },
+  "Universtiy of Winnipeg": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "UofA": {
+    "city": "Edmonton",
+    "type": null,
+    "ignore": false
+  },
+  "Vancouver Community College": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "Vancouver Island University, Nanaimo, BC": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "Vancouver Public Library": {
+    "city": "Vancouver",
+    "type": null,
+    "ignore": false
+  },
+  "Vaughan Public Library": {
+    "city": "Vaughan",
+    "type": null,
+    "ignore": false
+  },
+  "Villanova University": {
+    "city": "Villanova, PA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Virginia Tech, Blacksburg, VA": {
+    "city": "Blacksburg, VA, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Washington State University": {
+    "city": "Pullman",
+    "type": null,
+    "ignore": false
+  },
+  "Washington State University, Washington, DC": {
+    "city": "Pullman",
+    "type": null,
+    "ignore": false
+  },
+  "Waterloo Regional Library": {
+    "city": "Waterloo, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Waterloo University": {
+    "city": "Waterloo, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "We Are What We Do": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Western Universitiy": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Western University": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Western University, London, ON": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "WesternU Libraries": {
+    "city": "London, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Westmount Public Library": {
+    "city": "Westmount, Quebec, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Wheaton College": {
+    "city": "Wheaton, IL, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Wilfrid Laurier University": {
+    "city": "Waterloo, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Wilfrid Laurier University, Waterloo, ON": {
+    "city": "Waterloo, ON, Canada",
+    "type": null,
+    "ignore": false
+  },
+  "Windsor Public Library": {
+    "city": "Windsor",
+    "type": null,
+    "ignore": false
+  },
+  "Winnipeg Public Library": {
+    "city": "Winnipeg",
+    "type": null,
+    "ignore": false
+  },
+  "WorldShare Platform": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "Yale University, New Haven, CT": {
+    "city": "New Haven, CT, USA",
+    "type": null,
+    "ignore": false
+  },
+  "Yellowhead Regional Library": {
+    "city": "Spruce Grove",
+    "type": null,
+    "ignore": false
+  },
+  "Yellowhead Regional Library, Spruce Grove, AB": {
+    "city": "Spruce Grove",
+    "type": null,
+    "ignore": false
+  },
+  "York University": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "York University, Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "York Universtiy, Toronto": {
+    "city": "Toronto",
+    "type": null,
+    "ignore": false
+  },
+  "librarian.net": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "oss4lib curator": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "oss4lib curator &": {
+    "city": null,
+    "type": null,
+    "ignore": false
+  },
+  "panasonic Canada": {
+    "city": "Mississauga",
+    "type": null,
+    "ignore": false
+  }
+}

@@ -1,0 +1,54 @@
+year,date,time,speakers,title,abstract,type,tags,slides,video,audio
+1999,1999-10-25,8:30-9:15,David Johnston (University of Waterloo),"Keynote Speaker - The Magic Door
+The Web: Portal to Information
+Presentation:HTML",,keynote,,,,
+1999,1999-10-25,9:15-10:00,Clifford Lynch (Coalition for Networked Information),"Internet Related Developments: News from the IETF, the W3C and all that . . . (Abstract)",,talk,,,,
+1999,1999-10-25,10:20-10:50,"Slavko Manojlovich (Memorial University, St. John's, NF)","Z39.50: The Past: Where Are the Holdings? (Abstract)
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-25,10:50-11:40,"William E. Moen (University of North Texas, Denton, TX)","The Z Texas Profile: Improving Z39.50 Interoperability with a Focus on User Requirements (Abstract)
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-25,11:40-12:10,Walter Lewis (HALINET),"The Future: Z+SQL: Searching Relational Databases
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-25,1:10-1:55,"Daniel Chudnov (Yale University, New Haven, CT)",Open Source and Why It Matters to Libraries (Abstract),,talk,,,,
+1999,1999-10-25,1:55-2:40,Peter Rukavina (Reinvented Inc.),Seven Years in Linuxville: Real-world Stories from a Longtime Linux User (Abstract),,talk,,,,
+1999,1999-10-25,2:40-3:25,Steve Blind (Gaylord Information Systems),"Developing Native-Windows NT Applications: Challenges, Benefits, and Results (Abstract)
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-25,3:45-4:15,Art Rhyno (University of Windsor),"Rolling Out Your Own Browsers (Abstract)
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-25,4:15-4:45,"Roy Tennant (University of California, Berkeley)","Image File Formats on the Web
+Presentation:PowerPointorHTMLandWeb Image File Formats",,talk,,,,
+1999,1999-10-25,4:45-5:30,"Steve Morris (North Carolina State University, Raleigh, NC)","MrSid - Delivering Multiple Resolution Images
+Presentation:PowerPoint",,talk,,,,
+1999,1999-10-26,8:30-9:15,"Walt Crawford (Research Libraries Group, Inc.)","Choices and Context: Thinking About Technology and Media (Abstract)
+Presentation:HTMLorWord",,talk,,,,
+1999,1999-10-26,9:15-10:00,"Eric Lease Morgan (North Carolina State University, Raleigh, NC)",DBMs and Web Delivery (Abstract),,talk,,,,
+1999,1999-10-26,10:20-11:05,"Walter Lewis (HALINET) |
+Gail Richardson (SGL)","Distributed Local History Databases (Abstract)
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-26,11:05-12:00,"Eric Lease Morgan (North Carolina State University, Raleigh, NC)",MyLibrary@NCState (Abstract),,talk,,,,
+1999,1999-10-26,1:00-1:45,Ron Davies (International Labour Organization),"XML Without Tears (Abstract)
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-26,1:45-2:30,David Case (Chadwyck-Healey),Delivering SGML on the Web,,talk,,,,
+1999,1999-10-26,2:30-3:15,"Darryl Friesen (University of Saskatchewan, Saskatoon, SK) | Doug MacDonald (University of Saskatchewan, Saskatoon, SK)","XML Database Delivery
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-26,3:35-4:20,Terry Noreault (OCLC),"XML, Dublin Core & Interoperability
+Presentations:
+RDF, XML, Dublin Core and InteroperabilityPowerPointorHTML
+CORC, Metadata, and the Dublin Core: What's NextPowerPointorHTML",,talk,,,,
+1999,1999-10-26,4:20-5:05,Mark Dotzert (Waterloo Regional Library),"The New WAN Frontier: The Wild Wireless West (Abstract)
+Presentation:PowerPoint",,talk,,,,
+1999,1999-10-27,8:00-10:05,Walt Crawford (RLG) | Candy Bogar Zemon (Pigasus) | Richard Wilson (Auto-Graphics Canada) | Randy Menakes (Ameritech) | Clare MacKeigan (Relais International),"Resource Sharing Forum
+RLG, Pigasus, AVISO, Ameritech & Relais (Abstract -Relais)
+Presentations:
+Ameritech-PowerPointorHTML
+ILL Managers Comparison-HTMLorExcelPost-Conference ILL Tutorial -Everything You Always Wanted to Know About the ILL Protocol ** but Were Afraid to Ask.",,panel,,,,
+1999,1999-10-27,10:25-10:50,"Lynn Copeland (Simon Fraser University, Burnaby, BC) | Elaine Fairey (Simon Fraser University, Burnaby, BC)","GODOT: Open End to End Solution (Abstract)
+Presentation:HTML",,talk,,,,
+1999,1999-10-27,10:50-11:25,Frank Lukey (European Software Development),SilverLinker: Seamless Linking from Secondary Information to Critical External Resources,,talk,,,,
+1999,1999-10-27,11:25-12:00,Reg Quinton (University of Waterloo),"Authentication and Security (Abstract)
+Presentation:HTML",,talk,,,,
+1999,1999-10-27,1:00-1:45,Bo Wandschneider (University of Guelph) | Doug Horne (University of Guelph),"Establishing a Multi-Institutional Data Service over the Web
+Presentation:HTML",,talk,,,,
+1999,1999-10-27,1:45-2:30,Richard Pinnell (University of Waterloo),"Geospatial Data Delivery
+Presentation:PowerPointorHTML",,talk,,,,
+1999,1999-10-27,2:30-3:15,Joyce Ward (Northern Light),Northern Light - Man and Machine Together,,talk,,,,

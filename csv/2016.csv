@@ -1,0 +1,246 @@
+year,date,time,speakers,title,abstract,type,tags,slides,video,audio
+2016,2016-10-05,9:30AM-10:30AM,Chris Bourg (Massachusetts Institute of Technology),"Opening Keynote: Libraries, Technology, and Social Justice","Libraries aren’t neutral, technology isn’t neutral; and library technologies are definitely not neutral. Let’s talk about how we can move from recognizing and reducing bias in library technology to leveraging library technology for social equity and justice.",keynote,,,,
+2016,2016-10-05,10:45AM-11:30AM,Jacob Sanford (UNB Libraries) | Brian Cassidy (University of New Brunswick),Declaring Bankruptcy on Technical Debt: Modernizing a Library Systems Infrastructure and Workflow,"We exist as a very small Library Systems team at the University of New Brunswick Libraries, tasked with maintaining dozens of
+custom applications, Drupal instances, as well as required to meet a demand for constant new development. Several years ago
+we faced the reality of an un-repayable level of technical debt. The burden from historic organically developed projects, a lack of
+responsible technical policy and our failure to adopt a standardized architecture had left our team unable to provide an
+acceptable level of service without a drastic change in how we worked, the tools we worked with, and the projects we
+developed. We wanted to solve this. This session will present our evolution from the architecture and workflow of yesteryear
+towards a version controlled, CI centered workflow that creates, updates and tests our web assets as we work. Presentation
+Overview:
+Our transition from a server-centered thought process towards treating web instances as
+'applications'.
+The determination and implementation of a common server OS across
+Development/Staging/Live platforms.
+Provisioning of hardware from bare-metal with razor-server.
+Server level configuration management in Git and deploying to instances via bare repos.
+Our Thoughts in Choosing Drupal as a core architecture.
+'One Button' Drupal project and core update deployments via GitHub and Jenkins.
+Post-deployment testing with CucumberJS.
+Local development spin-up with docker, Vagrant, Chef.
+Audit of changes and team notifications through Amazon AWS Tools.
+Adoption of Slack as a core communication tool.
+List of Resources Mentioned in Presentation: https://goo.gl/AkLI65",talk,,,,
+2016,2016-10-05,11:30AM-12:00PM,Graham Sherriff (University of Vermont),Apples to Apples? Lessons Learned from a Comparative Evaluation of Online Platforms for Interactive Tutorials,"What does your library need from a tutorials platform? For several years, the University of Vermont has flipped libraryinstruction with tutorials created in Guide on the Side. This open-source program, provided by the University of Arizona, is a
+simple tool for producing frame-based tutorials centered on the learner’s interaction with web content. UVM adopted it
+principally because of its suitability to formative learning. But in 2016 Springshare launched LibWizard, an alternative platform
+for frame-based tutorials. It offered important functionalities that were not available in Guide on the Side, while lacking others
+that were integral features of our existing tutorials. Come to this session to hear how the availability of similar, yet distinct,
+products helped us to rethink our current and future tutorial needs. This presentation will explain how we developed and
+applied an evaluation rubric that could be applied to any platform of this kind. It will also highlight other aspects of our decision-
+making process, including questions about migrating existing tutorials, about rewiring our approach to creating tutorial objects,
+and about advocating for product development.",talk,,,,
+2016,2016-10-05,1:00PM-1:45PM,Brandon Weigel (BC Electronic Library Network),Arca BC: Launching and Maintaining an Open-Source Consortial Digital Repository,"Arca is a Canadian consortial digital repository based on an Islandora multisite, coordinated by the BC ElectronicLibrary Network,
+hosted and supported by discoverygarden. It is currently home to 11 BC post-secondary institutions’ repositories and growing,
+giving them an affordable way to provide access to faculty and student research output across multiple post-secondary
+institutions, and to support the management of institutional digital assets. This session describes how Arca came to be, including
+how government funding was obtained, the decision to go open source, the challenges of wrangling the needs of a very diverse
+group of institutions on a shared code base, and the particular challenges of doing it in Canada. And how we’re doing it on a
+shoestring budget (for a given value of “shoestring”), with minimal in-house technical expertise and a lot of learning on the fly.
+Possible takeaways: Get some details on how a consortial repository model might work for you; start a conversation about best
+practices for consortial repositories; consider the benefits and pitfalls of a collaborative repository vs. doing it yourself.",talk,,,,
+2016,2016-10-05,1:45PM-2:45PM,Krista Godfrey (Memorial University) | Whitni Watkins (Analog Devices) | Sam Popowich (University of Alberta) | Gillian Byrne (Ryerson University Library & Archives),Libraries and IT: The Struggle It Is,"This panel of four will discuss the current state of the merging of Libraries and Information Technology (IT) and the illusion wehave that IT has been successfully integrated into our organizations. In many ways, IT has not found its way to the center of our
+organizations but continues to experience a divide from the library culture. Bringing IT to the center of Libraries has been viewed
+as an invasion of library work rather than an integration and a benefit. We will also discuss the idea that library culture is not just
+one culture but encompasses many different cultures: cataloging, IT, admin, and public services, etc. The integration of each
+culture - being able to see the individual pieces fitting into the big picture - is important to the success of the library. A struggle
+heard often from those who have merged IT and Libraries is not seeing the importance of hearing what IT or Library departments
+are working on. As technology becomes further embedded into the work of libraries, the importance of including IT in projects
+from the start and not just when it’s time to hand it over becomes more critical. How IT working across departments serves in
+the Library’s benefit (and the reverse), including library staff into IT projects related to the Library as they start and not when
+they are handing them over after completion, all become vital questions in the library community.",panel,,,,
+2016,2016-10-05,3:00PM-3:45PM,Namir Ahmed (Ryerson Library) | Weina Wang (Ryerson University Library),Library Access Re-imagined Through the 21st Century Lens,"It’s been over a year since Ryerson University’s newest addition to campus, the Library of the 21st century - the Student Learning
+Centre (SLC) was opened. This fascinating new building offers students an unprecedented learning space beyond its
+contemporary looking glass walls and automatic solar blinds. In this presentation, the speakers will discuss how Ryerson’s
+Student Learning Centre has changed some of the traditional roles of academic libraries, while presenting new opportunities and
+challenges. The speakers will use the Library’s Digital Media Experience Lab (DME) located in the Student Learning Centre as a
+case study to frame this discussion. Over the past academic year Ryerson Library has offered access to interesting and emerging
+technologies such as Arduino microcontrollers, LittleBits, Oculus Rifts, Pico projectors as well as access to innovative workshops
+such as DIY DroneBuilding and 3D printed wearable technology. As part of the implementation of these programs Ryerson
+Library has also widely employed the use of Slack as a communication tool, replacing the traditional Walkie-Talkies.",talk,,,,
+2016,2016-10-05,3:45PM-4:05PM,Shelley Gullikson (Carleton University Library),Designing Subject Guides to be Student-First and Staff-Friendly,"Subject Guides at the Carleton University Library were built in 2011 on a home-grown Drupal template, mirroring the tabbed
+design of LibGuides. By 2015, the number of tabs in use was making the guides unwieldy in mobile and even on larger screens.
+The Library’s Web Committee wanted to design a guide that would be user-friendly for students, while also meeting the needs of
+another significant user group: library staff. Through user research with both groups and user testing with students, we came up
+with a design to meet the needs of both students and library staff. This presentation will give a quick tour of our new design,
+emphasizing how user research drove our design decisions and helped with staff buy-in.",talk,,,,
+2016,2016-10-06,9:15AM-10:00AM,George Duimovich (MacOdrum Library),Going Dutch - Introducing Artudis - A New Repository Platform,"The repository services space has had mixed success, and the experience at Carleton University has been no different. While
+theses and dissertations are well covered, our faculty publications content remained limited both in scope and growth. We
+needed a new platform and a new approach, and the MacOdrum Library found an exciting solution by going Dutch. The Artudis
+repository platform is being actively developed at the Erasmus University in Rotterdam, and in early 2016 we embarked on a
+beta program partnership to be the first North American implementation of this new open source platform. This presentation
+will focus on the rapid deployment model supported by Artudis, the standard as well as new exciting content types we can now
+manage, reporting and visualizations using Google’s BigQuery, plus a tour of key user and system administration features.
+Discussion will also include the key underpinnings to our decision, with a focus on metadata,
+identifiers, linked data, and the central role that publisher APIs can play, permitting us to grow our
+faculty publications 30 fold in less than six months.
+Finally, we’ll demonstrate how we can improve the value and interest in our open access repository by
+making a major shift to integrate selected non-open access content.",talk,,,,
+2016,2016-10-06,10:00AM-10:20AM,Whitni Watkins (Analog Devices),The Reference Interview: IT Style,"In library school we're taught the parts, process and importance of a reference interview. The reference interview, if done well
+can save one from unnecessary embarrassment and also ensure you're answering the question being asked with the answer that
+is needed. As a systems librarian, troubleshooting is my middle name. I may not be helping someone do research or find that
+particular book but I am helping someone understand a system they are using, sometimes that someone is me. I've realized that
+the reference interview is not only completely applicable to my work but also vitally important to successful troubleshooting in
+IT. The catch? Often the reference interview is unknown or not applied in library IT or IT in general. This talk will outline,
+reiterate and relate the parts of the traditional reference interview on books/databases/life and how to apply them in
+troubleshooting and supporting library systems and their users, and help users ask the better question by having the right
+information.",talk,,,,
+2016,2016-10-06,10:35AM-11:20AM,"Michael Groenendyk (McGill University)
+",Searching in 3D: The Availability and Discoverability of 3D Models on the Internet,"The number of 3D models available to both students and teachers online is rapidly expanding. Not only are the 3D model
+collections of popular websites like Thingiverse.com growing, but organizations such as the Smithsonian Institute and NASA have
+also recently begun building collections of 3D models and making these openly accessible online. Yet, even with the increased
+interest in 3D printing, 3D scanning, and virtual reality technologies, there is still little known about the overall structure of the
+3D model content available on the internet. How many 3D models are actually available? Who is responsible for producing these
+models? How fast is this content growing? How many of these 3D models are suitable for educational purposes in general?
+Based on in-depth research into the collections of more than one hundred 3D model repositories, this presentation seeks to
+answer these questions and more, providing a detailed picture of how 3D models exist across a multitude of websites and online
+repositories, and attempting to determine how much of this content is suitable for the purposes of education.",talk,,,,
+2016,2016-10-06,11:20AM-12:05PM,Myron Groover (McMaster University) | John Fink (McMaster University),Splitting the AtoM: Implementing Access to Memory at McMaster University,"McMaster University's William Ready Division of Archives and Research Collections recently implemented a customised instance
+of Access to Memory (AtoM), a FLOSS archival description platform. In this session, three members of the project team will
+explore the complexities of implementing a major migration project involving highly unruly data, including: AtoM is based on
+formal standards of archival description which often correspond inelegantly to the realities of how materials accumulate in
+archives—what is a ""fonds"" vs. a ""collection"" in real terms? How can you describe a manuscript within an archival standard?
+What do you do when an item has no attendant authority record? How do you address the inconsistencies in descriptive practise
+that all institutions experience over time, as staff and standards change? From a technical perspective, we had the challenge of
+migrating over 890 descriptive records from totally unstructured static HTML pages to the MySQL database which underlies
+AtoM. This undertaking, and the major design changes we needed to make to customise AtoM to our institution and users,
+presented some real logistical questions—especially given that each member of the project team reports to a different
+supervisor. And what would any IT project be without a few bugs which take you completely by surprise when it's too late to
+back out? Making the framework of the standard—and thus the software—fit the idiosyncracies of descriptive",talk,,,,
+2016,2016-10-06,1:05PM-1:14PM,Tim Ribaric (Brock University),A Twitter Bot for the Rest of Us.,"Twitter indignation, Python, and low-cost VPS
+services. To investigate all three I wanted to make a Twitter bot that exists at that intersection.
+To that end @LIS_Grievances was created. The bot that would allow all of us Information
+Professionals to air our grievances in anonymity. Visions of grandeur and @horse_ebooks ran
+through my mind. Instead I got a lesson in increasing bot popularity and a good dose of
+humility. This presentation will look at the components put together to create the bot as well as
+some of the interesting things it has said. The trickle of tweets it has been responsible for vary
+from benign to mildly insightful, and a bit obtuse. The best thing is no-one, including the guy
+that runs the bot, knows who wrote the message except the original author.",lightning,,,,
+2016,2016-10-06,1:14  - 1:23,J. Jack Unrau,"Transmitting in Cleartext: Digital Privacy Education for Reluctant
+Technologists","Online privacy is a concern for everyone, not just technophiles. As issues of
+digital surveillance and its political ramifications become increasingly well-known, the public's
+appetite for skills and tools to cope has grown. Tor, encryption and the mechanics of online
+tracking are complicated and segments of the public that know they should care aren't people
+who've written a line of code or even read any Neal Stephenson novels. In public libraries we're
+leading electronic privacy workshops for users who know they don't want to be spied on but
+may not know what a web browser is. The challenges aren't just technological but
+communicative. I'll be talking about the techniques that have (and haven't) worked for me in
+helping users build these privacy-tech literacies, and what we tool-teachers need from tool-
+makers to be the badass profession Snowden says we are.",lightning,,,,
+2016,2016-10-06,1:23-1:32,Naomi Eichenlaub (Ryerson University),Making MARC Actionable: URIs in Subfield Zero ($0),"Uniform Resource
+Identifiers (URIs) are globally unique character strings used to identify resources; they also play
+a critical role in linking data on the Web. The addition of dereferenceable (ie. actionable) URIs
+to MARC records is a significant step we can take in our current systems that will have
+meaningful impact when our data is taken out of the ILS and translated for external use, for
+example in discovery services. Moreover, the addition of URIs in our current systems will also
+aid in the reuse of MARC data in the linked environment by facilitating migration to other
+metadata formats. Making MARC actionable by adding URIs where appropriate and available
+will also make our library metadata interoperable within the larger metadata and controlled
+vocabulary communities. This lightning talk will survey work currently underway on
+implementing URIs in MARC using $0, including initiatives coming out of the Library of
+Congress Program for Cooperative Cataloging (PCC) Task Group on URIs in MARC, George
+Washington University Libraries, and a small experiment at Ryerson University Library &
+Archives (RULA).",lightning,,,,
+2016,2016-10-06,1:32 - 1:41,Trina Grover (Ryerson University),You Made that Yourself?!,"Knitting is similar to coding because it’s binary, there
+are 2 stitches that are combined in various ways to make new things. What happens when we
+bring knitters and coders together? The Ryerson Digital Media Experience lab is building
+resources and communities around computational textiles in order to enhance diversity in our
+makerspace. Starting with beginner workshops to create simple knit fabrics, the program has
+progressed to wearable computational fabrics. This experimental program has empowered
+students and staff to merge old and new technologies to create objects that are both functional
+and decorative.",lightning,,,,
+2016,2016-10-06,1:41-1:50,Wiktor Rzeczkowski (McMaster University Library),Easing the Collaboration Curse for Access,"As people can achieve things
+collectively that they cannot achieve individually, the cult of collaboration has become
+ubiquitous and reached the knowledge work where uninterrupted concentration is the principal
+virtue and where the collaboration interruptions, meetings, emails, calls become a curse. In this
+lightning talk an approach will be presented to ease the collaboration curse in the area of
+development and maintenance of online user services.",lightning,,,,
+2016,2016-10-06,1:50 - 1:59,Gillian Byrne (Ryerson University),"If 'Libraries are Software', What Does That Look Like?","Cody Hanson’s Libraries
+are software [codyhanson.com/writing/software.html] argues that the library is now software;
+that our products and services can no longer live outside software, that all staff need to
+understand the critical importance of software to the library, and that we “must encode our
+services and our values in the software we provide.”If we accept Cody’s premise, it seems clear
+that the traditionally organized library isn’t well suited to achieving this vision. This ignite talk
+will riff off ideas of what a software-centred library looks like. How would it be organized?
+How would the mission, values and organization planning reflect this shift in outlook?",lightning,,,,
+2016,2016-10-06,1:59 - 2:08,Sam Popowich (University of Alberta),Clojure for the Perplexed,"In this Ignite talk, I will cover the principles of
+functional programming and Clojure, and give a few ideas as to how functional programming
+principles offer a different way of thinking about data and library technology.",lightning,,,,
+2016,2016-10-06,2:08 - 3:07,Andrew Nagy (EBSCO),"Introducing FOLIO – The Community-driven Open Source Library Services
+Platform.","The future is bright – think of a time when we are all working from the same common
+platform to develop and deliver services to our users. No longer do we need to develop a data
+model to support our data stores. No longer do we need to develop APIs to allow our disparate
+systems to interoperate. Salesforce.com has its force.com platform and Amazon has its AWS
+offering. What if there was a Platform-as-a-Service offering for libraries? What if that platform
+was completely open? This is our bright future. FOLIO is a new initiative supported by the
+OLE community, EBSCO, IndexData, developers and other service providers to provide this
+future for us all as fully open source software. With an app-store like environment, we can
+truly collaborate to offer the best of breed services and solutions that meet the needs of each and
+every library.",lightning,,,,
+2016,2016-10-06,3:07-3:26,Laura Wrubel (George Washington University),"Need Help with Your Code? Providing a Programming Consultation Service at
+the Library.","George Washington University Libraries undertook a pilot to provide programming
+and software development consultation services for the university community. The consultation
+services took the form of half hour appointments conducted by librarians with software
+development expertise, similar to other reference services offered by the library. I'll talk about
+why we did this, how we set it up, how it went, and what we've learned in offering this service.",lightning,,,,
+2016,2016-10-06,2:25PM-3:10PM,"Janice Kung (University of Alberta) | Pamela Carson (Concordia University)
+",Raspberry Pi Prototype Project: Measuring and Displaying Noise Levels in an Academic Library,"Problems associated with noise in academic libraries are an ongoing concern for patrons and library administration. Loudness is
+subjective, so what may be noisy to one person is acceptable to another. In our pilot project, we used sensors to measure
+decibel levels in order to quantify what is “silent” versus what is “quiet”. Decibel measurement data were visualized on screens,
+allowing visitors to see the noise levels in their area or in other areas of the library. This display allowed visitors to choose the
+area with the right amount of noise for their purposes (e.g., 2 students working quietly together would go to a semi-silent area;
+whereas 1 student going to read a book would want to pick the quietest area in the library). In addition, decibel levels taken at
+regular intervals were sent to a database which could be queried in order to make informed and targeted interventions. We used
+an Arduino microcontroller with a decibel measurement sensor which continually measured the decibel levels in an area. A
+Raspberry Pi computer collected this data from the connected Arduino and the Python programming language was used to
+format this data to display on multiple screens with HTML5, jQuery and Google Charts. This prototype project is ongoing and
+presenters will provide a demonstration of how the Arduino and Raspberry Pi work together to display the noise levels. Results
+and conclusions drawn from the pilot project will help inform library policies on space planning, library services, and enhancing
+the user experience.",talk,,,,
+2016,2016-10-06,3:25PM-3:55PM,Krista Godfrey (Memorial University) | Jason A. Clark (Montana State University),"Addressing the “Uncanny Valley” of Search UX - Anticipatory Design, Privacy, and Tolerance for
+Systems that Speculate About You","In this session, we’ll look at how inferred and contextual aspects of a search query can offer new ways of thinking about the “10
+blue links” of a search result page. We present one possibility for evolving library search by introducing the ideas and processes
+behind enhancements that apply time, space, and query analysis data within our search interfaces. In our search prototype, we
+demonstrate how anticipatory design models and “intention [data] mining” of search queries create a new kind of search
+experience: a search that anticipates your questions. We consider the benefits and pitfalls of anticipatory design models as we
+look to understand the intentions of search queries and the physical/network locations of our users. In redesigning “search as a
+conversation”, we’ll consider how the anticipatory design model raises questions about privacy and we’ll present preliminary
+usability findings that look to understand where the line between adding value to a system ends and feelings of surveillance
+arise.",talk,,,,
+2016,2016-10-06,3:55PM-4:40PM,Angie Fullington (NCSU),Delivering Dynamic Structured Content Through User-Centered Taxonomies,"Academic libraries often struggle to find language and web architectures to reflect the services we provide and the work that we
+do. This results in a discrepancy between the reality of library space and service and the way in which they are presented on the
+open web. Often the core of what the library provides its users is articulated in expansive, catch-all “Services” menus. The Web
+Team at the NCSU Libraries developed a structured content model and “user activities taxonomy” that allows us to dynamically
+align and present service elements around user goals rather than our organizational structures. Building off the success of this
+approach, we are developing additional taxonomies, driven by a user-centered ontology, to modularize more of our content in
+meaningful ways. An example of this is the “projects taxonomy” which allows us to better reflect work done by the libraries to
+external stakeholders, complementing the “user activities taxonomy” by expanding the types of content touched by taxonomic
+structures. This talk will be on the process of establishing user-focused information architectures (IAs) through the principles of
+narrative taxonomy and will cover our application of user-focused IAs through the use of Drupal taxonomies. We will also
+address what this approach has meant for information presentation on the NCSU Libraries website, touch on the strategies used
+to garner stakeholder buy-in, and discuss the practicalities of how ontologies drive structural decision making.",talk,,,,
+2016,2016-10-07,9:15AM-10:00AM,Mike Nason (UNB) | Jacob Sanford (UNB),"Starting From Scratch – The Technical, Logistical, and Political Challenges of (Re)Building an
+Institutional Repository","Maybe it goes without saying, but building an institutional repository from scratch requires a tremendous amount of effort.
+There's upper-level project management, institution-wide organizational concerns, extensive content recruitment, back-end
+technical requirements, workflow creation, quality assurance challenges, astounding potential for custom development, political
+struggles, copyright hurdles, policy creation, bug squashing, records management and digital preservation concerns... and these
+concerns likely barely scratch the surface of day-to-day operations. While institutional repository software is developed for the
+general needs of institutions, institutions themselves are incredibly specific; each school, library, college, university a snowflake
+in its own right with unique organizational structures, hierarchies, and needs. Often – out of necessity – it is the job of too few to
+accommodate these needs. Questions may be answered hastily in the interest of progress. There are faculty and colleagues to
+account for. Time is short. Expectations are high. Over two years of development of a new institutional repository at the
+University of New Brunswick, the myriad challenges of building an institutional repository have become abundantly and
+repeatedly clear. Unless you've already built a repository at your institution with identical software, you will be embarking on a
+learning process. This talk is intended to walk through the challenges and victories over approximately 2 years of extended
+development and implementation of the UNB Scholar institutional repository at the University of New Brunswick told by the two
+folks whose hands are the dirtiest, spanning metadata, project-level management, politics, managing expectations, and
+continued development.",talk,,,,
+2016,2016-10-07,10:00AM-10:30AM,,Hackfest Reports,,report,,,,
+2016,2016-10-07,10:30AM-11:00AM,Krista Godfrey (Memorial University) | Merle Steeves (University of New Brunswick Libraries) | Gillian Byrne (Ryerson University Library & Archives),The Future of Access,,panel,,,,
+2016,2016-10-07,11:15AM-12:15PM,Geoffrey Rockwell (University of Alberta),David Binkley Memorial Lecture and Closing Keynote: On the Ethics of Digitization,"The Snowden revelations have shown us that big data about us is being gathered and used for surveillance, but what about the
+data gathered or digitized by researchers? Are big digital humanities projects not a form of cultural surveillance? Clearly we needto rethink the archiving of large amounts of data for research purposes in light of the unforeseen uses such data can be put to.
+This is especially true as capture technologies allow people to accession data right into open archival systems without much
+thought or curation. In this presentation I will discuss the ethics of digitization. I will do this by first confronting the common
+assumption that “information wants to be free” – that more data is good. Instead I will suggest that we can draw on the ethics of
+care to imagine how projects can think through the ethics of what they are gathering and who it will affect. I will use as an
+example a project that has been gathering tweets about game culture.","keynote, binkley",,,,

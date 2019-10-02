@@ -1,0 +1,306 @@
+{
+  "Toronto": {
+    "city": "Toronto",
+    "province": "Ontario",
+    "count": 3,
+    "distance": 2706078,
+    "lat": 43.653963,
+    "lon": -79.387207
+  },
+  "St. Catharine's": {
+    "city": "St. Catharine's",
+    "province": "Ontario",
+    "count": 2,
+    "distance": 2747659,
+    "lat": 43.167376,
+    "lon": -79.241638
+  },
+  "The Bahamas": {
+    "city": "The Bahamas",
+    "province": "",
+    "count": 1,
+    "distance": 4345405,
+    "lat": 24.7736546,
+    "lon": -78.0000547
+  },
+  "Vancouver": {
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "count": 2,
+    "distance": 817443,
+    "lat": 49.2608724,
+    "lon": -123.1139529
+  },
+  "Edmonton": {
+    "city": "Edmonton",
+    "province": "Alberta",
+    "count": 79,
+    "distance": 0,
+    "lat": 53.535411,
+    "lon": -113.507996
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "province": "Ontario",
+    "count": 2,
+    "distance": 2701161,
+    "lat": 43.255205,
+    "lon": -79.868202
+  },
+  "Halifax": {
+    "city": "Halifax",
+    "province": "Nova Scotia",
+    "count": 2,
+    "distance": 3701105,
+    "lat": 44.8543667,
+    "lon": -63.137798
+  },
+  "Regina": {
+    "city": "Regina",
+    "province": "Saskatchewan",
+    "count": 5,
+    "distance": 698130,
+    "lat": 50.44876,
+    "lon": -104.61731
+  },
+  "Sherwood Park, AB, Canada": {
+    "city": "Sherwood Park, AB, Canada",
+    "province": "Alberta",
+    "count": 4,
+    "distance": 14012,
+    "lat": 53.5256963,
+    "lon": -113.2966313
+  },
+  "London, ON, Canada": {
+    "city": "London, ON, Canada",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2633608,
+    "lat": 42.9537654,
+    "lon": -81.2291529
+  },
+  "Montreal": {
+    "city": "Montreal",
+    "province": "Quebec",
+    "count": 5,
+    "distance": 2971480,
+    "lat": 45.4972159,
+    "lon": -73.6103642
+  },
+  "Halifax, Canada": {
+    "city": "Halifax, Canada",
+    "province": "Nova Scotia",
+    "count": 1,
+    "distance": 3701105,
+    "lat": 44.8543667,
+    "lon": -63.137798
+  },
+  "Lawrence, Kansas, USA": {
+    "city": "Lawrence, Kansas, USA",
+    "province": "",
+    "count": 1,
+    "distance": 2131152,
+    "lat": 38.9719384,
+    "lon": -95.2359496
+  },
+  "Ottawa": {
+    "city": "Ottawa",
+    "province": "Ontario",
+    "count": 10,
+    "distance": 2838621,
+    "lat": 45.421106,
+    "lon": -75.690308
+  },
+  "Los Angeles": {
+    "city": "Los Angeles",
+    "province": "",
+    "count": 1,
+    "distance": 2198143,
+    "lat": 34.0536909,
+    "lon": -118.2427666
+  },
+  "Calgary": {
+    "city": "Calgary",
+    "province": "Alberta",
+    "count": 7,
+    "distance": 281530,
+    "lat": 51.02532675,
+    "lon": -114.049868485806
+  },
+  "Lethbridge": {
+    "city": "Lethbridge",
+    "province": "Alberta",
+    "count": 1,
+    "distance": 429507,
+    "lat": 49.694285,
+    "lon": -112.851562
+  },
+  "Fredericton": {
+    "city": "Fredericton",
+    "province": "New Brunswick",
+    "count": 1,
+    "distance": 3403777,
+    "lat": 45.966425,
+    "lon": -66.645813
+  },
+  "Waterloo": {
+    "city": "Waterloo",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2644557,
+    "lat": 43.466874,
+    "lon": -80.524635
+  },
+  "Cincinnati": {
+    "city": "Cincinnati",
+    "province": "",
+    "count": 1,
+    "distance": 2714049,
+    "lat": 39.1014537,
+    "lon": -84.5124602
+  },
+  "Mississauga": {
+    "city": "Mississauga",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2693430,
+    "lat": 43.590338,
+    "lon": -79.645729
+  },
+  "Saskatoon": {
+    "city": "Saskatoon",
+    "province": "Saskatchewan",
+    "count": 3,
+    "distance": 485497,
+    "lat": 52.131802,
+    "lon": -106.660767
+  },
+  "Southampton, United Kingdom": {
+    "city": "Southampton, United Kingdom",
+    "province": "",
+    "count": 1,
+    "distance": 6794565,
+    "lat": 50.9137978,
+    "lon": -1.39904048346365
+  },
+  "Prince George": {
+    "city": "Prince George",
+    "province": "British Columbia",
+    "count": 2,
+    "distance": 608750,
+    "lat": 53.9128645,
+    "lon": -122.7453699
+  },
+  "Slave Lake": {
+    "city": "Slave Lake",
+    "province": "Alberta",
+    "count": 1,
+    "distance": 210627,
+    "lat": 55.2810741,
+    "lon": -114.7717876
+  },
+  "Dublin, Ohio, USA": {
+    "city": "Dublin, Ohio, USA",
+    "province": "",
+    "count": 1,
+    "distance": 2721374,
+    "lat": 40.0992294,
+    "lon": -83.1140771
+  },
+  "Guelph": {
+    "city": "Guelph",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2659177,
+    "lat": 43.533783,
+    "lon": -80.2306337
+  },
+  "St. John's": {
+    "city": "St. John's",
+    "province": "Newfoundland and Labrador",
+    "count": 1,
+    "distance": 4212875,
+    "lat": 47.561701,
+    "lon": -52.715149
+  },
+  "Waterloo, ON, Canada": {
+    "city": "Waterloo, ON, Canada",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2644557,
+    "lat": 43.466874,
+    "lon": -80.524635
+  },
+  "Lansing, Michigan, USA": {
+    "city": "Lansing, Michigan, USA",
+    "province": "",
+    "count": 1,
+    "distance": 2437100,
+    "lat": 42.7337712,
+    "lon": -84.5553805
+  },
+  "Westmount, Quebec, Canada": {
+    "city": "Westmount, Quebec, Canada",
+    "province": "Quebec",
+    "count": 1,
+    "distance": 2973081,
+    "lat": 45.4857329,
+    "lon": -73.5963951
+  },
+  "Windsor": {
+    "city": "Windsor",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2563862,
+    "lat": 42.30423,
+    "lon": -83.029861
+  },
+  "Columbia, SC, USA": {
+    "city": "Columbia, SC, USA",
+    "province": "",
+    "count": 1,
+    "distance": 3343836,
+    "lat": 34.0007493,
+    "lon": -81.0343313
+  },
+  "Oshawa": {
+    "city": "Oshawa",
+    "province": "Ontario",
+    "count": 1,
+    "distance": 2723140,
+    "lat": 43.91768,
+    "lon": -78.862953
+  },
+  "Raleigh": {
+    "city": "Raleigh",
+    "province": "",
+    "count": 1,
+    "distance": 3338666,
+    "lat": 35.7803977,
+    "lon": -78.6390989
+  },
+  "Fiesole": {
+    "city": "Fiesole",
+    "province": "",
+    "count": 1,
+    "distance": 7986625,
+    "lat": 43.8066689,
+    "lon": 11.2930735
+  },
+  "Bozeman": {
+    "city": "Bozeman",
+    "province": "",
+    "count": 1,
+    "distance": 891191,
+    "lat": 45.679984,
+    "lon": -111.044675
+  },
+  "Maskwacis": {
+    "city": "Maskwacis",
+    "province": "Alberta",
+    "count": 1,
+    "distance": 78026,
+    "lat": 52.8345485,
+    "lon": -113.4506814
+  }
+}
